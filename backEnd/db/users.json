@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "605855e65508da2d54aba0ba"
+  },
+  "name": "Aravinth",
+  "email": "anthu1510@gmail.com",
+  "password": "sha1$b541d08a$1$63a1b840678ee42371cbfc9dea3e79d277c1dca2",
+  "status": "Aravinth",
+  "createdAt": {
+    "$date": "2021-03-22T08:31:34.335Z"
+  },
+  "UpdatedAt": {
+    "$date": "2021-03-22T08:31:34.336Z"
+  },
+  "__v": 0
+}]
